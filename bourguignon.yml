@@ -1,0 +1,187 @@
+# Comment
+families: 
+  - parents: [Matthieu BOURGUIGNON, Ariane GAUDEFROI]
+    children: [Alice BOURGUIGNON]
+  - parents: [Raphael BOURGUIGNON, Mili]
+    children: [Esteban BOURGUIGNON, Mariana BOURGUIGNON, Lorenzo BOURGUIGNON]
+  - parents: [Jean-Baptiste BOURGUIGNON, Odile CHEVALIER]
+    children: [Matthieu BOURGUIGNON, Raphael BOURGUIGNON, Guillaume BOURGUIGNON]
+
+  - parents: [Timothée BOURGUIGNON, Vera DÜRNHOFER]
+    children: [Théo BOURGUIGNON, Ella BOURGUIGNON, Vroni BOURGUIGNON]
+  - parents: [Ségolène BOURGUIGNON, Julien WALDE]
+  - parents: [Benjamin DESEVIN, Valentine BOURGUIGNON]
+    children: [Octave DESEVIN, Basile DESEVIN]
+  - parents: [Michel BOURGUIGNON, Véronique SIMON]
+    children: [Timothée BOURGUIGNON, Valentine BOURGUIGNON, Ségolène BOURGUIGNON]
+
+  - parents: [Joel BOURGUIGNON, Macey SMITH]
+  - parents: [Joel BOURGUIGNON, Libuska SLECHTOVA]
+
+  - parents: [Peter PONSARD, Julie LECROERE]
+    children: [Nathan PONSARD, Timéo PONSARD, Noam PONSARD]
+  - parents: [Hugo CAUVIN, Katia PONSARD]
+    children: [Anaelle CAUVIN, Simon CAUVIN]
+  - parents: [Thérèse BOURGUIGNON, Patrick PONSARD]
+    children: [Peter PONSARD, Katia PONSARD]
+
+  - parents: [Etienne BOURGUIGNON, Annick ANCELIN]
+    children: [Abigai BOURGUIGNON, Iris BOURGUIGNON]
+
+  - parents: [Ansfrid PEPERS, Claire]
+    children: [Jules PEPERS, Baptiste PEPERS]
+  - parents: [Nicolas LECERVOISIER, Soline PEPERS]
+    children: [Apolline LECERVOISIER, Aubert LECERVOISIER, Azélie LECERVOISIER, Louis-Marie LECERVOISIER, Evroult LECERVOISIER, Floscel LECERVOISIER, Colombe LECERVOISIER]
+  - parents: [Jean-Daniel NYS, Orianne PEPERS]
+    children: [Francois-Marie NYS, Anne-Emmanuelle NYS, Marie-Alyette NYS]
+  - parents: [Francois PEPERS, Marie-Jo BOURGUIGNON]
+    children: [Ansfrid PEPERS, Soline PEPERS, Orianne PEPERS, Ottilia PEPERS, Odile-Marie PEPERS, Priscilla PEPERS]
+
+  - parents: [Pierre BOURGUIGNON, Anne CHAPUIS]
+    children: [Jean-Baptiste BOURGUIGNON, Joel BOURGUIGNON, Marie-Jo BOURGUIGNON, Michel BOURGUIGNON, Thérèse BOURGUIGNON, Etienne BOURGUIGNON]
+
+people:
+  Véronique SIMON:
+    fullname: 17.06.1955
+  Michel BOURGUIGNON :
+    fullname: 23.12.1950
+  Timothée BOURGUIGNON :
+    fullname: 19.04.1983
+    image: "TimSmall.png"
+  Vera DÜRNHOFER :
+    fullname: 02.02.1984
+  Théo BOURGUIGNON :
+    fullname: 17.12.2012
+  Ella BOURGUIGNON:
+    fullname: 14.06.2016
+  Valentine BOURGUIGNON :
+    fullname: 29.08.1986
+  Benjamin DESEVIN :
+    fullname: 29.10.1983
+  Octave DESEVIN :
+    fullname: 11.02.2016
+  Basile DESEVIN:
+    fullname: 30.11.2018
+  Ségolène BOURGUIGNON :
+    fullname: 10.03.1989
+  Julien WALDE:
+    fullname: 29.07.1989
+  Hugo CAUVIN:
+    fullname: 07.08.1977
+  Katia PONSARD:
+    fullname: 20.11.1978
+  Anaelle CAUVIN:
+    fullname: 25.07.2012
+  Simon CAUVIN:
+    fullname: 26.02.2015
+  Nathan PONSARD:
+    fullname: 28.10.2007
+  Timéo PONSARD:
+    fullname: 22.12.2010
+  Noam PONSARD:
+    fullname: 30.09.2015
+  Peter PONSARD:
+    fullname: 08.07.1980
+  Julie LECROERE:
+    fullname: 02.08.1984
+  Thérèse BOURGUIGNON:
+    fullname: 18.01.1955
+  Patrick PONSARD:
+    fullname: 
+    class: [minor]
+  Jean-Daniel NYS:
+    fullname: 28.02.1976
+  Orianne PEPERS:
+    fullname: 18.02.1981
+  Francois-Marie NYS:
+    fullname: 20.02.2004
+  Anne-Emmanuelle NYS:
+    fullname: 07.09.2006
+  Marie-Alyette NYS:
+    fullname: 22.09.2014
+  Apolline LECERVOISIER:
+    fullname: 06.01.2003
+  Aubert LECERVOISIER:
+    fullname: 15.02.2014
+  Azélie LECERVOISIER:
+    fullname: 15.02.2016
+  Louis-Marie LECERVOISIER:
+    fullname: 30.06.2001
+  Evroult LECERVOISIER:
+    fullname: 18.07.2004
+  Floscel LECERVOISIER:
+    fullname: 10.08.2008
+  Colombe LECERVOISIER:
+    fullname: 31.08.2012
+  Nicolas LECERVOISIER:
+    fullname: 03.01.1972
+  Soline PEPERS:
+    fullname: 21.12.1979
+  Jules PEPERS:
+    fullname: 02.05.2013
+  Baptiste PEPERS:
+    fullname: 29.06.2012
+  Ansfrid PEPERS:
+    fullname: 22.10.1983
+  Claire:
+    fullname: 
+  Francois PEPERS:
+    fullname: 01.08.1951
+  Marie-Jo BOURGUIGNON:
+    fullname: 15.08.1949
+  Ottilia PEPERS:
+    fullname: 20.11.1986 - ✝ 19.02.1987
+    class: [minor]
+  Odile-Marie PEPERS:
+    fullname: 07.02.1988
+  Priscilla PEPERS:
+    fullname: 23.11.1988
+  Abigai BOURGUIGNON:
+    fullname: 24.08.1992
+  Iris BOURGUIGNON:
+    fullname: 01.05.1995
+  Etienne BOURGUIGNON:
+    fullname: 18.01.1955 - ✝ XX.XX.XXXX
+    class: [minor]
+  Annick ANCELIN:
+    fullname: 18.07.1956
+  Joel BOURGUIGNON:
+    fullname: 30.03.1948
+  Libuska SLECHTOVA:
+    fullname: 28.10.1948 - ✝ 02.12.2005
+    class: [minor]
+  Macey SMITH:
+    fullname: 21.06.1953
+  Esteban BOURGUIGNON:
+    fullname: 23.07.2008
+  Mariana BOURGUIGNON:
+    fullname: 07.05.2006
+  Lorenzo BOURGUIGNON:
+    fullname: 30.07.2011
+  Raphael BOURGUIGNON:
+    fullname: 22.12.1974
+  Mili:
+    fullname: 06.05.1982
+  Alice BOURGUIGNON:
+    fullname: 18.05.2014
+  Matthieu BOURGUIGNON:
+    fullname: 16.10.1970
+  Ariane GAUDEFROI:
+    fullname: 29.08.1979
+  Guillaume BOURGUIGNON:
+    fullname: 22.12.1974
+  Jean-Baptiste BOURGUIGNON:
+    fullname: 18.10.1946
+  Odile CHEVALIER:
+    fullname: 20.03.1947
+  Pierre BOURGUIGNON:
+    fullname: 4.11.1920 - ✝ 26.03.2010
+    class: [minor]
+  Anne CHAPUIS:
+    fullname: 30.11.1921 - ✝ xx.xx.xxxx
+    class: [minor]
+styles:
+  minor:
+    style: "filled"
+    fillcolor: "#f4f4f4"
+    penwidth: 0

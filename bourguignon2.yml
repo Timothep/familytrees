@@ -1,0 +1,198 @@
+families:
+  - house: Bourguignon
+    parents: [Pierre Bourguignon, Anne Chapuis]
+    children: [Jean-Baptiste Bourguignon, Joel Bourguignon, Marie-Jo Bourguignon, Michel Bourguignon, Thérèse Bourguignon, Etienne Bourguignon]
+    families:
+      - parents: [Jean-Baptiste Bourguignon, Odile Chevalier]
+        children: [Matthieu Bourguignon, Raphael Bourguignon, Guillaume Bourguignon]
+      - parents: [Michel Bourguignon, Véronique Simon]
+        children: [Timothée Bourguignon, Valentine Bourguignon, Ségolène Bourguignon]
+
+      - parents: [Matthieu Bourguignon, Ariane Gaudefroi]
+        children: [Alice Bourguignon]
+      - parents: [Raphael Bourguignon, Mili XX]
+        children: [Esteban Bourguignon, Mariana Bourguignon, Lorenzo Bourguignon]
+
+      - parents: [Timothée Bourguignon, Vera Dürnhofer]
+        children: [Théo Bourguignon, Ella Bourguignon, Vroni Bourguignon]
+      - parents: [Ségolène Bourguignon, Julien Walde]
+
+      - parents: [Joel Bourguignon, Macey Smith]
+      - parents: [Joel Bourguignon, Libuska Slechtova]
+
+      - parents: [Etienne Bourguignon, Annick Ancelin]
+        children: [Abigai Bourguignon, Iris Bourguignon]
+
+  - house: Ponsard
+    parents: [Thérèse Bourguignon, Patrick Ponsard]
+    children: [Peter Ponsard, Katia Ponsard]
+    families:
+      - parents: [Peter Ponsard, Julie Lecroere]
+        children: [Nathan Ponsard, Timéo Ponsard, Noam Ponsard]
+      - parents: [Hugo Cauvin, Katia Ponsard]
+        children: [Anaelle Cauvin, Simon Cauvin]
+
+  - house: Pepers
+    parents: [Francois Pepers, Marie-Jo Bourguignon]
+    children: [Ansfrid Pepers, Soline Pepers, Orianne Pepers, Ottilia Pepers, Odile-Marie Pepers, Priscilla Pepers]
+    families:
+      - parents: [Ansfrid Pepers, Claire XX]
+        children: [Jules Pepers, Baptiste Pepers]
+
+  - house: Lecervoisier
+    parents: [Nicolas Lecervoisier, Soline Pepers]
+    children: [Apolline Lecervoisier, Aubert Lecervoisier, Azélie Lecervoisier, Louis-Marie Lecervoisier, Evroult Lecervoisier, Floscel Lecervoisier, Colombe Lecervoisier]
+
+  - house: Nys
+    parents: [Jean-Daniel Nys, Orianne Pepers]
+    children: [Francois-Marie Nys, Anne-Emmanuelle Nys, Marie-Alyette Nys]
+
+  - house: DeSevin
+    parents: [Benjamin DeSevin, Valentine Bourguignon]
+    children: [Octave DeSevin, Basile DeSevin]
+
+people:
+  Véronique Simon:
+    fullname: 17.06.1955
+  Michel Bourguignon :
+    fullname: 23.12.1950
+  Timothée Bourguignon :
+    fullname: 19.04.1983
+    picture: TimSmall.png
+  Vera Dürnhofer :
+    fullname: 02.02.1984
+  Théo Bourguignon :
+    fullname: 17.12.2012
+  Ella Bourguignon:
+    fullname: 14.06.2016
+  Valentine Bourguignon :
+    fullname: 29.08.1986
+  Benjamin DeSevin :
+    fullname: 29.10.1983
+  Octave DeSevin :
+    fullname: 11.02.2016
+  Basile DeSevin:
+    fullname: 30.11.2018
+  Ségolène Bourguignon :
+    fullname: 10.03.1989
+  Julien Walde:
+    fullname: 29.07.1989
+  Hugo Cauvin:
+    fullname: 07.08.1977
+  Katia Ponsard:
+    fullname: 20.11.1978
+  Anaelle Cauvin:
+    fullname: 25.07.2012
+  Simon Cauvin:
+    fullname: 26.02.2015
+  Nathan Ponsard:
+    fullname: 28.10.2007
+  Timéo Ponsard:
+    fullname: 22.12.2010
+  Noam Ponsard:
+    fullname: 30.09.2015
+  Peter Ponsard:
+    fullname: 08.07.1980
+  Julie Lecroere:
+    fullname: 02.08.1984
+  Thérèse Bourguignon:
+    fullname: 18.01.1955
+  Patrick Ponsard:
+    fullname: 
+    class: [minor]
+  Jean-Daniel Nys:
+    fullname: 28.02.1976
+  Orianne Pepers:
+    fullname: 18.02.1981
+  Francois-Marie Nys:
+    fullname: 20.02.2004
+  Anne-Emmanuelle Nys:
+    fullname: 07.09.2006
+  Marie-Alyette Nys:
+    fullname: 22.09.2014
+  Apolline Lecervoisier:
+    fullname: 06.01.2003
+  Aubert Lecervoisier:
+    fullname: 15.02.2014
+  Azélie Lecervoisier:
+    fullname: 15.02.2016
+  Louis-Marie Lecervoisier:
+    fullname: 30.06.2001
+  Evroult Lecervoisier:
+    fullname: 18.07.2004
+  Floscel Lecervoisier:
+    fullname: 10.08.2008
+  Colombe Lecervoisier:
+    fullname: 31.08.2012
+  Nicolas Lecervoisier:
+    fullname: 03.01.1972
+  Soline Pepers:
+    fullname: 21.12.1979
+  Jules Pepers:
+    fullname: 02.05.2013
+  Baptiste Pepers:
+    fullname: 29.06.2012
+  Ansfrid Pepers:
+    fullname: 22.10.1983
+  Claire XX:
+    fullname: 
+  Francois Pepers:
+    fullname: 01.08.1951
+  Marie-Jo Bourguignon:
+    fullname: 15.08.1949
+  Ottilia Pepers:
+    fullname: 20.11.1986 - ✝ 19.02.1987
+    class: [minor]
+  Odile-Marie Pepers:
+    fullname: 07.02.1988
+  Priscilla Pepers:
+    fullname: 23.11.1988
+  Abigai Bourguignon:
+    fullname: 24.08.1992
+  Iris Bourguignon:
+    fullname: 01.05.1995
+  Etienne Bourguignon:
+    fullname: 18.01.1955 - ✝ XX.XX.XXXX
+    class: [minor]
+  Annick Ancelin:
+    fullname: 18.07.1956
+  Joel Bourguignon:
+    fullname: 30.03.1948
+  Libuska Slechtova:
+    fullname: 28.10.1948 - ✝ 02.12.2005
+    class: [minor]
+  Macey Smith:
+    fullname: 21.06.1953
+  Esteban Bourguignon:
+    fullname: 23.07.2008
+  Mariana Bourguignon:
+    fullname: 07.05.2006
+  Lorenzo Bourguignon:
+    fullname: 30.07.2011
+  Raphael Bourguignon:
+    fullname: 22.12.1974
+  Mili XX:
+    fullname: 06.05.1982
+  Alice Bourguignon:
+    fullname: 18.05.2014
+  Matthieu Bourguignon:
+    fullname: 16.10.1970
+  Ariane Gaudefroi:
+    fullname: 29.08.1979
+  Guillaume Bourguignon:
+    fullname: 22.12.1974
+  Jean-Baptiste Bourguignon:
+    fullname: 18.10.1946
+  Odile Chevalier:
+    fullname: 20.03.1947
+  Pierre Bourguignon:
+    fullname: 4.11.1920 - ✝ 26.03.2010
+    class: [minor]
+  Anne Chapuis:
+    fullname: 30.11.1921 - ✝ xx.xx.xxxx
+    class: [minor]
+styles:
+  minor:
+    style: "filled"
+    fillcolor: "#f4f4f4"
+    penwidth: 0
