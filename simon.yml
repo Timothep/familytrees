@@ -1,212 +1,170 @@
 families: 
-  - house: ARRIVE
-    families:
-    - parents: [Stéphanie SIMON, Marc ARRIVE]
-      children: [Maël ARRIVE, Louanne ARRIVE]
-  - house: BADOUARD
-    families:
-    - parents: [Sylvie SIMON, Jean-Yves BADOUARD]
-      children: [Emmanuelle BADOUARD, Florent BADOUARD, Carole BADOUARD]
-  - house: BLOT
-    families:
-    - parents: [Bernadette SIMON, Charles BLOT]
-      children: [Marie BLOT, Odile BLOT, Patrice BLOT, Brigitte BLOT, Benoit BLOT]
-    - parents: [Patrice BLOT, Sylviane AUBREE]
-      children: [Lucie BLOT, Eva BLOT, Emanuelle BLOT, Florence BLOT]
-    - parents: [Patrice BLOT, Hafsa DURAND]
-      children: []
-    - parents: [Benoit BLOT, Françoise SOLANET]
-      children: [Benjamin BLOT, Agathe BLOT]
-  - house: BOURGUIGNON
-    families:
-    - parents: [Michel BOURGUIGNON, Véronique SIMON]
-      children: [Timothée BOURGUIGNON, Valentine BOURGUIGNON, Ségolène BOURGUIGNON]
-    - parents: [Timothée BOURGUIGNON, Vera DÜRNHOFER]
-      children: [Théo BOURGUIGNON, Ella BOURGUIGNON]
-  - house: CAILLIERET
-    families:
-    - parents: [Marie-Christine SIMON, Frédéric CAILLIERET]
-      children: [Ombeline CAILLIERET, Corentin CAILLIERET]
-  - house: CALDIN
-    families:
-    - parents: [Agathe SIMON 1989, Benjamin CALDIN]
-      children: [Jeanne CALDIN]
-  - house: CARUANA GALIZIA
-    families:
-    - parents: [Lucie BLOT, Andrew CARUANA GALIZIA]
-      children: []
-  - house: COMAGNAC
-    families:
-    - parents: [Valentine SIMON, Anthony COMAGNAC]
-      children: []
-  - house: CORDIER
-    families:
-    - parents: [Emmanuelle SIMON, Dimitri CORDIER]
-      children: []
-  - house: COSTA
-    families:
-    - parents: [Anne-Elisabeth SIMON, Jean-Paul COSTA]
-      children: [Pierre-Emmanuel COSTA, Marine COSTA, Frédéric COSTA, Benjamin COSTA, Gaël COSTA]
-    - parents: [Pierre-Emmanuel COSTA, Jane LUNGERSHAUSEN]
-      children: []
-  - house: COURDENT
-    families:
-    - parents: [Marie BLOT, Dominique COURDENT]
-      children: [Samuel COURDENT, Vianney COURDENT, Pauline COURDENT]
-  - house: DESEVIN
-    families:
-    - parents: [Valentine BOURGUIGNON, Benjamin DESEVIN]
-      children: [Octave DESEVIN, Basile DESEVIN]
-  - house: DRISCOLL
-    families:
-    - parents: [Marie-Christine SIMON, Richard DRISCOLL]
-      children: [Lucie DRISCOLL]
-  - house: DUCHATELLE
-    families:
-    - parents: [Perrine LELOIR, Fabien DUCHATELLE]
-      children: [Timothé DUCHATELLE]
-  - house: DUFETELLE
-    families:
-    - parents: [Caroline SIMON, David DUFETELLE]
-      children: [Elie DUFETELLE, Salomée DUFETELLE]
-  - house: FORNER
-    families:
-    - parents: [Odile BLOT, Michel FORNER]
-      children: [Marie FORNER, Erwan FORNER, Armelle FORNER, Tiphaine FORNER]
-    - parents: [Tiphaine FORNER, Guillaume DELASSUS]
-      children : []
-    - parents: [Erwan FORNER, Anaële CHATELAIN]
-      children: [Morgane FORNER]
-  - house: FOSSIER
-    families:
-    - parents: [Christine SIMON, Eric FOSSIER]
-      children: [Thibaut FOSSIER, Camille FOSSIER, Sylvain FOSSIER, Lucille FOSSIER]
-  - house: HAMON--MERAND
-    families:
-    - parents: [Isabelle MERAND, Mathieu HAMON]
-      children: [Louise HAMON--MERAND, Prune HAMON-MERAND, Célestin HAMON--MERAND]
-  - house: LAMOTTE
-    families:
-    - parents: [Christine SIMON, Pierre-Hugues LAMOTTE]
-      children: []
-  - house: LELOIR
-    families:
-    - parents: [Brigitte BLOT, Vincent LELOIR]
-      children: [Marion LELOIR, Perrine LELOIR, Anaïs LELOIR]
-    - parents: [Geneviève MERAND, Jean LELOIR]
-      children: [Alice LELOIR, Iléana LELOIR]
-  - house: MARFAING
-    families:
-    - parents: [Emmanuelle SIMON, Juilen MARFAING]
-      children: [Léa MARFAING, Camille MARFAING]
-  - house: MERAND
-    families:
-    - parents: [Thérèse SIMON, René MERAND]
-      children: [Luc MERAND, Geneviève MERAND, Paul MERAND]
-    - parents: [Luc MERAND, Joëlle LECHOUX]
-      children: [Isabelle MERAND, Céline MERAND, Hervé MERAND]
-    - parents: [Paul MERAND, Pierrette LETARD]
-      children: [Corentin MERAND]
-  - house: MERAND--HAMON
-    families:
-    - parents: [Hervé MERAND, Sandrine HAMON]
-      children: [Lou MERAND--HAMON]
-  - house: MESUREUR
-    families:
-    - parents: [Marie FORNER, Vincent MESUREUR]
-      children: [Charles MESUREUR, Pierre MESUREUR]
-  - house: NAYET
-    families:
-    - parents: [Marion LELOIR, David NAYET]
-      children: [Charles NAYET, Marius NAYET]
-  - house: PELERIN
-    families:
-    - parents: [Aurélie SIMON, Florent PELERIN]
-      children: [Merlin, Mila]
-  - house: PENET
-    families:
-    - parents: [Claire SIMON, Thierry PENET]
-      children: [Chloé PENET, Maud PENET]
-  - house: RENIER
-    families:
-    - parents: [Jeanne SIMON, Jean Loup RENIER]
-      children: [Marie RENIER, Lise RENIER, Jeremy RENIER]
-  - house: ROISIN
-    families:
-    - parents: [Jeanne SIMON, Thierry ROISIN]
-      children: []
-  - house: SAUTREUIL
-    families:
-    - parents: [Célia SIMON, Nicolas SAUTREUIL]
-      children: []
-  - house: SIMON
-    families:
-    - parents: [Louis SIMON, Denyse FRANCOIS]
-      children: [Véronique SIMON, Laurence SIMON, Jérome SIMON]
-    - parents: [Jérome SIMON, Emmanuelle CHERON]
-      children: [Agathe SIMON 1989, Hugo SIMON]
-    - parents: [Etienne SIMON 1887, Marie-Louise BOURDREL]
-      children: [Marie-Céline SIMON, Bernadette SIMON, Louis SIMON, Pierre SIMON, Thérèse SIMON, Dominique SIMON, Jean SIMON, Joseph SIMON, François SIMON, Gérard SIMON, Christian SIMON 1933]
-    - parents: [Pierre SIMON, Viviane BLANKENHORN]
-      children: [Anne-Elisabeth SIMON, Denis SIMON, Christian SIMON 1960]
-    - parents: [Denis SIMON, Brigitte CONSTANTIN]
-      children: [Grégory SIMON, Agathe SIMON 1988, Clémentine SIMON]
-    - parents: [Christian SIMON 1960, Virginie BOULOGNE]
-      children: []
-    - parents: [Dominique SIMON, Jacqueline LASNE]
-      children: [Thierry SIMON, Arnaud SIMON, Pascal SIMON, Marie-Christine SIMON, Olivier SIMON, Frédéric SIMON, Anne-Gaëlle SIMON]
-    - parents: [Thierry SIMON, Véronique HOLLEVILLE]
-      children: [Emmanuelle SIMON, Caroline SIMON, Valentine SIMON]
-    - parents: [Arnaud SIMON, Sylviane RAQUET]
-      children: [Robin SIMON, Eliott SIMON, Faustine SIMON, Anaïs SIMON]
-    - parents: [Arnaud SIMON, Marie-Josée]
-      children: []
-    - parents: [Pascal SIMON, Béatrics CAZE]
-      children: [Marine SIMON, Aymeric SIMON]
-    - parents: [Olivier SIMON, Fabienne HOLLEVILLE]
-      children: [Germain SIMON, Jeanne SIMON 1994, Martin SIMON 2001]
-    - parents: [Germain SIMON, Jennifer GERVAL]
-      children: []
-    - parents: [Frédéric SIMON, Isabelle ANDRIEUX]
-      children: [Sarah SIMON 1992, Manon SIMON]
-    - parents: [Jean SIMON, Suzanne FAUGERON]
-      children: [Xavier SIMON, Christine SIMON, Claire SIMON, Chantal SIMON]
-    - parents: [Xavier SIMON, Maryline DAG]
-      children: [Hélène SIMON, Jean-François SIMON, Laure SIMON]
-    - parents: [François SIMON, Marie-Thérèse DECHEZLEPRETRE ]
-      children: [Eric SIMON, Bruno SIMON]
-    - parents: [Eric SIMON, Joëlle DESJARDINS]
-      children: [Mathieu SIMON, Célia SIMON, Florian SIMON, Vivien SIMON, Cyrielle SIMON]
-    - parents: [Mathieu SIMON, Karen COMTE]
-      children: [Tahïs SIMON, Tiago SIMON]
-    - parents: [Bruno SIMON, Marie-Madeleine COURTIN]
-      children: [Sarah SIMON 1983, Myriam SIMON, Corentin SIMON]
-    - parents: [Gérard SIMON, Colette TALBOT]
-      children: [Fabien SIMON, Loïk SIMON, Sylvie SIMON, Lionel SIMON, Nathalie SIMON]
-    - parents: [Fabien SIMON, Christine PAIN]
-      children: [Stéphanie SIMON, Baptiste SIMON]
-    - parents: [Baptiste SIMON, Perrine LARVOL]
-      children: []
-    - parents: [Fabien SIMON, Christine DUFRECHE]
-      children: []
-    - parents: [Loïk SIMON, Solange ROZE]
-      children: [Aurélie SIMON, Julien SIMON]
-    - parents: [Julien SIMON, Laura LEFRANCOIS]
-      children: [Nolann]
-    - parents: [Loïk SIMON, Christine GOUIN]
-      children: []
-    - parents: [Lionel SIMON, Anne MAUVY]
-      children: [Martin SIMON, David SIMON]
-    - parents: [Lionel SIMON, Guilaine HACHET]
-      children: [Quentin SIMON, Etienne SIMON, Maud SIMON]
-    - parents: [David SIMON, Andréa GBEDEKO]
-      children: []
-    - parents: [Christian SIMON 1933, Jacqueline MOREAU]
-      children: [Isabelle SIMON, Jeanne SIMON]
-  - house: TRICOU
-    families:
-    - parents: [Laurence SIMON, Nicolas TRICOU]
-      children: [Antoine TRICOU, Christophe TRICOU, Clémentine TRICOU, Charlotte TRICOU]
+  - parents: [Stéphanie SIMON, Marc ARRIVE]
+    children: [Maël ARRIVE, Louanne ARRIVE]
+  - parents: [Sylvie SIMON, Jean-Yves BADOUARD]
+    children: [Emmanuelle BADOUARD, Florent BADOUARD, Carole BADOUARD]
+  - parents: [Bernadette SIMON, Charles BLOT]
+    children: [Marie BLOT, Odile BLOT, Patrice BLOT, Brigitte BLOT, Benoit BLOT]
+  - parents: [Patrice BLOT, Sylviane AUBREE]
+    children: [Lucie BLOT, Eva BLOT, Emanuelle BLOT, Florence BLOT]
+  - parents: [Patrice BLOT, Hafsa DURAND]
+    children: []
+  - parents: [Benoit BLOT, Françoise SOLANET]
+    children: [Benjamin BLOT, Agathe BLOT]
+  - parents: [Michel BOURGUIGNON, Véronique SIMON]
+    children: [Timothée BOURGUIGNON, Valentine BOURGUIGNON, Ségolène BOURGUIGNON]
+  - parents: [Timothée BOURGUIGNON, Vera DÜRNHOFER]
+    children: [Théo BOURGUIGNON, Ella BOURGUIGNON]
+  - parents: [Marie-Christine SIMON, Frédéric CAILLIERET]
+    children: [Ombeline CAILLIERET, Corentin CAILLIERET]
+  - parents: [Agathe SIMON 1989, Benjamin CALDIN]
+    children: [Jeanne CALDIN]
+  - parents: [Lucie BLOT, Andrew CARUANA GALIZIA]
+    children: []
+  - parents: [Valentine SIMON, Anthony COMAGNAC]
+    children: []
+  - parents: [Emmanuelle SIMON, Dimitri CORDIER]
+    children: []
+  - parents: [Anne-Elisabeth SIMON, Jean-Paul COSTA]
+    children: [Pierre-Emmanuel COSTA, Marine COSTA, Frédéric COSTA, Benjamin COSTA, Gaël COSTA]
+  - parents: [Pierre-Emmanuel COSTA, Jane LUNGERSHAUSEN]
+    children: []
+
+  - parents: [Marie BLOT, Dominique COURDENT]
+    children: [Samuel COURDENT, Vianney COURDENT, Pauline COURDENT]
+
+  - parents: [Valentine BOURGUIGNON, Benjamin DESEVIN]
+    children: [Octave DESEVIN, Basile DESEVIN]
+
+  - parents: [Marie-Christine SIMON, Richard DRISCOLL]
+    children: [Lucie DRISCOLL]
+
+  - parents: [Perrine LELOIR, Fabien DUCHATELLE]
+    children: [Timothé DUCHATELLE]
+
+  - parents: [Caroline SIMON, David DUFETELLE]
+    children: [Elie DUFETELLE, Salomée DUFETELLE]
+
+  - parents: [Odile BLOT, Michel FORNER]
+    children: [Marie FORNER, Erwan FORNER, Armelle FORNER, Tiphaine FORNER]
+  - parents: [Tiphaine FORNER, Guillaume DELASSUS]
+    children : []
+  - parents: [Erwan FORNER, Anaële CHATELAIN]
+    children: [Morgane FORNER]
+
+  - parents: [Christine SIMON, Eric FOSSIER]
+    children: [Thibaut FOSSIER, Camille FOSSIER, Sylvain FOSSIER, Lucille FOSSIER]
+
+  - parents: [Isabelle MERAND, Mathieu HAMON]
+    children: [Louise HAMON--MERAND, Prune HAMON-MERAND, Célestin HAMON--MERAND]
+
+  - parents: [Christine SIMON, Pierre-Hugues LAMOTTE]
+    children: []
+
+  - parents: [Brigitte BLOT, Vincent LELOIR]
+    children: [Marion LELOIR, Perrine LELOIR, Anaïs LELOIR]
+  - parents: [Geneviève MERAND, Jean LELOIR]
+    children: [Alice LELOIR, Iléana LELOIR]
+
+  - parents: [Emmanuelle SIMON, Juilen MARFAING]
+    children: [Léa MARFAING, Camille MARFAING]
+
+  - parents: [Thérèse SIMON, René MERAND]
+    children: [Luc MERAND, Geneviève MERAND, Paul MERAND]
+  - parents: [Luc MERAND, Joëlle LECHOUX]
+    children: [Isabelle MERAND, Céline MERAND, Hervé MERAND]
+  - parents: [Paul MERAND, Pierrette LETARD]
+    children: [Corentin MERAND]
+
+  - parents: [Hervé MERAND, Sandrine HAMON]
+    children: [Lou MERAND--HAMON]
+
+  - parents: [Marie FORNER, Vincent MESUREUR]
+    children: [Charles MESUREUR, Pierre MESUREUR]
+
+  - parents: [Marion LELOIR, David NAYET]
+    children: [Charles NAYET, Marius NAYET]
+
+  - parents: [Aurélie SIMON, Florent PELERIN]
+    children: [Merlin, Mila]
+
+  - parents: [Claire SIMON, Thierry PENET]
+    children: [Chloé PENET, Maud PENET]
+
+  - parents: [Jeanne SIMON, Jean Loup RENIER]
+    children: [Marie RENIER, Lise RENIER, Jeremy RENIER]
+
+  - parents: [Jeanne SIMON, Thierry ROISIN]
+    children: []
+
+  - parents: [Célia SIMON, Nicolas SAUTREUIL]
+    children: []
+
+  - parents: [Louis SIMON, Denyse FRANCOIS]
+    children: [Véronique SIMON, Laurence SIMON, Jérome SIMON]
+  - parents: [Jérome SIMON, Emmanuelle CHERON]
+    children: [Agathe SIMON 1989, Hugo SIMON]
+  - parents: [Etienne SIMON 1887, Marie-Louise BOURDREL]
+    children: [Marie-Céline SIMON, Bernadette SIMON, Louis SIMON, Pierre SIMON, Thérèse SIMON, Dominique SIMON, Jean SIMON, Joseph SIMON, François SIMON, Gérard SIMON, Christian SIMON 1933]
+  - parents: [Pierre SIMON, Viviane BLANKENHORN]
+    children: [Anne-Elisabeth SIMON, Denis SIMON, Christian SIMON 1960]
+  - parents: [Denis SIMON, Brigitte CONSTANTIN]
+    children: [Grégory SIMON, Agathe SIMON 1988, Clémentine SIMON]
+  - parents: [Christian SIMON 1960, Virginie BOULOGNE]
+    children: []
+  - parents: [Dominique SIMON, Jacqueline LASNE]
+    children: [Thierry SIMON, Arnaud SIMON, Pascal SIMON, Marie-Christine SIMON, Olivier SIMON, Frédéric SIMON, Anne-Gaëlle SIMON]
+  - parents: [Thierry SIMON, Véronique HOLLEVILLE]
+    children: [Emmanuelle SIMON, Caroline SIMON, Valentine SIMON]
+  - parents: [Arnaud SIMON, Sylviane RAQUET]
+    children: [Robin SIMON, Eliott SIMON, Faustine SIMON, Anaïs SIMON]
+  - parents: [Arnaud SIMON, Marie-Josée]
+    children: []
+  - parents: [Pascal SIMON, Béatrics CAZE]
+    children: [Marine SIMON, Aymeric SIMON]
+  - parents: [Olivier SIMON, Fabienne HOLLEVILLE]
+    children: [Germain SIMON, Jeanne SIMON 1994, Martin SIMON 2001]
+  - parents: [Germain SIMON, Jennifer GERVAL]
+    children: []
+  - parents: [Frédéric SIMON, Isabelle ANDRIEUX]
+    children: [Sarah SIMON 1992, Manon SIMON]
+  - parents: [Jean SIMON, Suzanne FAUGERON]
+    children: [Xavier SIMON, Christine SIMON, Claire SIMON, Chantal SIMON]
+  - parents: [Xavier SIMON, Maryline DAG]
+#    children: [Hélène SIMON, Jean-François SIMON, Laure SIMON]
+#  - parents: [François SIMON, Marie-Thérèse DECHEZLEPRETRE ]
+#    children: [Eric SIMON, Bruno SIMON]
+#  - parents: [Eric SIMON, Joëlle DESJARDINS]
+#    children: [Mathieu SIMON, Célia SIMON, Florian SIMON, Vivien SIMON, Cyrielle SIMON]
+#  - parents: [Mathieu SIMON, Karen COMTE]
+#    children: [Tahïs SIMON, Tiago SIMON]
+#  - parents: [Bruno SIMON, Marie-Madeleine COURTIN]
+#    children: [Sarah SIMON 1983, Myriam SIMON, Corentin SIMON]
+#  - parents: [Gérard SIMON, Colette TALBOT]
+#    children: [Fabien SIMON, Loïk SIMON, Sylvie SIMON, Lionel SIMON, Nathalie SIMON]
+#  - parents: [Fabien SIMON, Christine PAIN]
+#    children: [Stéphanie SIMON, Baptiste SIMON]
+#  - parents: [Baptiste SIMON, Perrine LARVOL]
+#    children: []
+#  - parents: [Fabien SIMON, Christine DUFRECHE]
+#    children: []
+#  - parents: [Loïk SIMON, Solange ROZE]
+#    children: [Aurélie SIMON, Julien SIMON]
+#  - parents: [Julien SIMON, Laura LEFRANCOIS]
+#    children: [Nolann]
+#  - parents: [Loïk SIMON, Christine GOUIN]
+#    children: []
+#  - parents: [Lionel SIMON, Anne MAUVY]
+#    children: [Martin SIMON, David SIMON]
+#  - parents: [Lionel SIMON, Guilaine HACHET]
+#    children: [Quentin SIMON, Etienne SIMON, Maud SIMON]
+#  - parents: [David SIMON, Andréa GBEDEKO]
+#    children: []
+#  - parents: [Christian SIMON 1933, Jacqueline MOREAU]
+#    children: [Isabelle SIMON, Jeanne SIMON]
+#
+#  - parents: [Laurence SIMON, Nicolas TRICOU]
+#    children: [Antoine TRICOU, Christophe TRICOU, Clémentine TRICOU, Charlotte TRICOU]
 people:
   Louis SIMON:
     fullname: 06.06.1922 - 28.12.1999
