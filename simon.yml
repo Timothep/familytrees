@@ -1,625 +1,662 @@
-families: 
+families:
+  # Gen5
+
+  # Gen4
   - parents: [Stéphanie SIMON, Marc ARRIVE]
     children: [Maël ARRIVE, Louanne ARRIVE]
-  - parents: [Sylvie SIMON, Jean-Yves BADOUARD]
-    children: [Emmanuelle BADOUARD, Florent BADOUARD, Carole BADOUARD]
-  - parents: [Bernadette SIMON, Charles BLOT]
-    children: [Marie BLOT, Odile BLOT, Patrice BLOT, Brigitte BLOT, Benoit BLOT]
-  - parents: [Patrice BLOT, Sylviane AUBREE]
-    children: [Lucie BLOT, Eva BLOT, Emanuelle BLOT, Florence BLOT]
-  - parents: [Patrice BLOT, Hafsa DURAND]
+  - parents: [Baptiste SIMON, Perrine LARVOL]
     children: []
-  - parents: [Benoit BLOT, Françoise SOLANET]
-    children: [Benjamin BLOT, Agathe BLOT]
-  - parents: [Michel BOURGUIGNON, Véronique SIMON]
-    children: [Timothée BOURGUIGNON, Valentine BOURGUIGNON, Ségolène BOURGUIGNON]
+  - parents: [Aurélie SIMON, Florent PELERIN]
+    children: [Merlin, Mila]
+  - parents: [Julien SIMON, Laura LEFRANCOIS]
+    children: [Nolann]
+  - parents: [David SIMON, Andréa GBEDEKO]
+    children: []
   - parents: [Timothée BOURGUIGNON, Vera DÜRNHOFER]
-    children: [Théo BOURGUIGNON, Ella BOURGUIGNON]
-  - parents: [Marie-Christine SIMON, Frédéric CAILLIERET]
-    children: [Ombeline CAILLIERET, Corentin CAILLIERET]
+    children: [Théo BOURGUIGNON, Ella BOURGUIGNON, Vroni BOURGUIGNON]
+  - parents: [Valentine BOURGUIGNON, Benjamin DESEVIN]
+    children: [Octave DESEVIN, Basile DESEVIN, Théliau DESEVIN]
   - parents: [Agathe SIMON 1989, Benjamin CALDIN]
     children: [Jeanne CALDIN]
   - parents: [Lucie BLOT, Andrew CARUANA GALIZIA]
     children: []
+  - parents: [Marie FORNER, Vincent MESUREUR]
+    children: [Charles MESUREUR, Pierre MESUREUR]
+  - parents: [Erwan FORNER, Anaële CHATELAIN]
+    children: [Morgane FORNER]
+  - parents: [Tiphaine FORNER, Guillaume DELASSUS]
+    children : []
+  - parents: [Marion LELOIR, David NAYET]
+    children: [Charles NAYET, Marius NAYET]
+  - parents: [Perrine LELOIR, Fabien DUCHATELLE]
+    children: [Timothé DUCHATELLE]
+  - parents: [Hervé MERAND, Sandrine HAMON]
+    children: [Lou MERAND--HAMON]
+  - parents: [Isabelle MERAND, Mathieu HAMON]
+    children: [Louise HAMON--MERAND, Prune HAMON--MERAND, Célestin HAMON--MERAND]
+  - parents: [Pierre-Emmanuel COSTA, Jane LUNGERSHAUSEN]
+    children: []
+  - parents: [Ombeline CAILLIERET, Nathan REIX]
+    children: [Lou REIX, Mia REIX]
   - parents: [Valentine SIMON, Anthony COMAGNAC]
     children: []
   - parents: [Emmanuelle SIMON, Dimitri CORDIER]
     children: []
-  - parents: [Anne-Elisabeth SIMON, Jean-Paul COSTA]
-    children: [Pierre-Emmanuel COSTA, Marine COSTA, Frédéric COSTA, Benjamin COSTA, Gaël COSTA]
-  - parents: [Pierre-Emmanuel COSTA, Jane LUNGERSHAUSEN]
-    children: []
-
-  - parents: [Marie BLOT, Dominique COURDENT]
-    children: [Samuel COURDENT, Vianney COURDENT, Pauline COURDENT]
-
-  - parents: [Valentine BOURGUIGNON, Benjamin DESEVIN]
-    children: [Octave DESEVIN, Basile DESEVIN]
-
-  - parents: [Marie-Christine SIMON, Richard DRISCOLL]
-    children: [Lucie DRISCOLL]
-
-  - parents: [Perrine LELOIR, Fabien DUCHATELLE]
-    children: [Timothé DUCHATELLE]
-
   - parents: [Caroline SIMON, David DUFETELLE]
     children: [Elie DUFETELLE, Salomée DUFETELLE]
+  - parents: [Emmanuelle SIMON, Juilen MARFAING]
+    children: [Léa MARFAING, Camille MARFAING]
+  - parents: [Germain SIMON, Jennifer GERVAL]
+    children: []
+  - parents: [Célia SIMON, Nicolas SAUTREUIL]
+    children: []
+  - parents: [Mathieu SIMON, Karen COMTE]
+    children: [Tahïs SIMON, Tiago SIMON]
+  - parents: [Marine RENIER, Nicolas SCHWEITZER]
+    children: [Noé SCHWEITZER, Mathilde SCHWEITZER]
 
+  # Gen3
+  - parents: [Fabien SIMON, Christine PAIN]
+    children: [Stéphanie SIMON, Baptiste SIMON]
+  - parents: [Fabien SIMON, Christine DUFRECHE]
+    children: []
+  - parents: [Sylvie SIMON, Jean-Yves BADOUARD]
+    children: [Emmanuelle BADOUARD, Florent BADOUARD, Carole BADOUARD]
+  - parents: [Loïk SIMON, Solange ROZE]
+    children: [Aurélie SIMON, Julien SIMON]
+  - parents: [Loïk SIMON, Christine GOUIN]
+    children: []
+  - parents: [Lionel SIMON, Anne MAUVY]
+    children: [Martin SIMON--HACHET, David SIMON]
+  - parents: [Lionel SIMON, Guilaine HACHET]
+    children: [Quentin SIMON, Etienne SIMON--HACHET, Maud SIMON]
+
+  - parents: [Michel BOURGUIGNON, Véronique SIMON]
+    children: [Timothée BOURGUIGNON, Valentine BOURGUIGNON, Ségolène BOURGUIGNON]
+  - parents: [Jérome SIMON, Emmanuelle CHERON]
+    children: [Agathe SIMON 1989, Hugo SIMON]
+  - parents: [Laurence SIMON, Nicolas TRICOU]
+    children: [Antoine TRICOU, Christophe TRICOU, Clémentine TRICOU, Charlotte TRICOU]
+  
+  - parents: [Patrice BLOT, Sylviane AUBREE]
+    children: [Lucie BLOT, Eva BLOT, Emmanuelle BLOT, Florence BLOT]
+  - parents: [Patrice BLOT, Hafsa DURAND]
+    children: []
+  - parents: [Benoit BLOT, Françoise SOLANET]
+    children: [Benjamin BLOT, Agathe BLOT]
+  - parents: [Marie BLOT, Dominique COURDENT]
+    children: [Samuel COURDENT, Vianney COURDENT, Pauline COURDENT]
   - parents: [Odile BLOT, Michel FORNER]
     children: [Marie FORNER, Erwan FORNER, Armelle FORNER, Tiphaine FORNER]
-  - parents: [Tiphaine FORNER, Guillaume DELASSUS]
-    children : []
-  - parents: [Erwan FORNER, Anaële CHATELAIN]
-    children: [Morgane FORNER]
-
-  - parents: [Christine SIMON, Eric FOSSIER]
-    children: [Thibaut FOSSIER, Camille FOSSIER, Sylvain FOSSIER, Lucille FOSSIER]
-
-  - parents: [Isabelle MERAND, Mathieu HAMON]
-    children: [Louise HAMON--MERAND, Prune HAMON-MERAND, Célestin HAMON--MERAND]
-
-  - parents: [Christine SIMON, Pierre-Hugues LAMOTTE]
-    children: []
-
   - parents: [Brigitte BLOT, Vincent LELOIR]
     children: [Marion LELOIR, Perrine LELOIR, Anaïs LELOIR]
   - parents: [Geneviève MERAND, Jean LELOIR]
     children: [Alice LELOIR, Iléana LELOIR]
-
-  - parents: [Emmanuelle SIMON, Juilen MARFAING]
-    children: [Léa MARFAING, Camille MARFAING]
-
-  - parents: [Thérèse SIMON, René MERAND]
-    children: [Luc MERAND, Geneviève MERAND, Paul MERAND]
+  
   - parents: [Luc MERAND, Joëlle LECHOUX]
     children: [Isabelle MERAND, Céline MERAND, Hervé MERAND]
   - parents: [Paul MERAND, Pierrette LETARD]
     children: [Corentin MERAND]
+  - parents: [Anne-Elisabeth SIMON, Jean-Paul COSTA]
+    children: [Pierre-Emmanuel COSTA, Marine COSTA, Frédéric COSTA, Benjamin COSTA, Gaël COSTA]
 
-  - parents: [Hervé MERAND, Sandrine HAMON]
-    children: [Lou MERAND--HAMON]
-
-  - parents: [Marie FORNER, Vincent MESUREUR]
-    children: [Charles MESUREUR, Pierre MESUREUR]
-
-  - parents: [Marion LELOIR, David NAYET]
-    children: [Charles NAYET, Marius NAYET]
-
-  - parents: [Aurélie SIMON, Florent PELERIN]
-    children: [Merlin, Mila]
-
-  - parents: [Claire SIMON, Thierry PENET]
-    children: [Chloé PENET, Maud PENET]
-
-  - parents: [Jeanne SIMON, Jean Loup RENIER]
-    children: [Marie RENIER, Lise RENIER, Jeremy RENIER]
-
-  - parents: [Jeanne SIMON, Thierry ROISIN]
-    children: []
-
-  - parents: [Célia SIMON, Nicolas SAUTREUIL]
-    children: []
-
-  - parents: [Louis SIMON, Denyse FRANCOIS]
-    children: [Véronique SIMON, Laurence SIMON, Jérome SIMON]
-  - parents: [Jérome SIMON, Emmanuelle CHERON]
-    children: [Agathe SIMON 1989, Hugo SIMON]
-  - parents: [Etienne SIMON 1887, Marie-Louise BOURDREL]
-    children: [Marie-Céline SIMON, Bernadette SIMON, Louis SIMON, Pierre SIMON, Thérèse SIMON, Dominique SIMON, Jean SIMON, Joseph SIMON, François SIMON, Gérard SIMON, Christian SIMON 1933]
-  - parents: [Pierre SIMON, Viviane BLANKENHORN]
-    children: [Anne-Elisabeth SIMON, Denis SIMON, Christian SIMON 1960]
   - parents: [Denis SIMON, Brigitte CONSTANTIN]
     children: [Grégory SIMON, Agathe SIMON 1988, Clémentine SIMON]
   - parents: [Christian SIMON 1960, Virginie BOULOGNE]
     children: []
-  - parents: [Dominique SIMON, Jacqueline LASNE]
-    children: [Thierry SIMON, Arnaud SIMON, Pascal SIMON, Marie-Christine SIMON, Olivier SIMON, Frédéric SIMON, Anne-Gaëlle SIMON]
+
+  - parents: [Marie-Christine SIMON, Frédéric CAILLIERET]
+    children: [Ombeline CAILLIERET, Corentin CAILLIERET]
+  - parents: [Marie-Christine SIMON, Richard DRISCOLL]
+    children: [Lucie DRISCOLL]
+
   - parents: [Thierry SIMON, Véronique HOLLEVILLE]
     children: [Emmanuelle SIMON, Caroline SIMON, Valentine SIMON]
   - parents: [Arnaud SIMON, Sylviane RAQUET]
     children: [Robin SIMON, Eliott SIMON, Faustine SIMON, Anaïs SIMON]
   - parents: [Arnaud SIMON, Marie-Josée]
     children: []
-  - parents: [Pascal SIMON, Béatrics CAZE]
+  - parents: [Pascal SIMON, Béatrice CAZE]
     children: [Marine SIMON, Aymeric SIMON]
   - parents: [Olivier SIMON, Fabienne HOLLEVILLE]
-    children: [Germain SIMON, Jeanne SIMON 1994, Martin SIMON 2001]
-  - parents: [Germain SIMON, Jennifer GERVAL]
-    children: []
+    children: [Germain SIMON, Jeanne SIMON 1994, Martin SIMON--HACHET 2001]
   - parents: [Frédéric SIMON, Isabelle ANDRIEUX]
     children: [Sarah SIMON 1992, Manon SIMON]
+  - parents: [Christine SIMON, Eric FOSSIER]
+    children: [Thibaut FOSSIER, Camille FOSSIER, Sylvain FOSSIER, Lucille FOSSIER]
+  - parents: [Christine SIMON, Pierre-Hugues LAMOTTE]
+    children: []
+  - parents: [Claire SIMON, Thierry PENET]
+    children: [Chloé PENET, Maud PENET]
+  - parents: [Xavier SIMON, Maryline DAG]
+    children: [Hélène SIMON, Jean-François SIMON, Laure SIMON]
+  - parents: [Eric SIMON, Joëlle DESJARDINS]
+    children: [Mathieu SIMON, Célia SIMON, Florian SIMON, Vivien SIMON, Cyrielle SIMON]
+  - parents: [Bruno SIMON, Marie-Madeleine COURTIN]
+    children: [Sarah SIMON 1983, Myriam SIMON, Corentin SIMON]
+  - parents: [Jeanne SIMON--MOREAU, Jean Loup RENIER]
+    children: [Marine RENIER, Lise RENIER, Jeremy RENIER]
+  - parents: [Jeanne SIMON--MOREAU, Thierry ROISIN]
+    children: []
+
+  # Gen2
+  - parents: [Gérard SIMON, Colette TALBOT]
+    children: [Fabien SIMON, Loïk SIMON, Sylvie SIMON, Lionel SIMON, Nathalie SIMON]
+  - parents: [Louis SIMON, Denyse FRANCOIS]
+    children: [Véronique SIMON, Laurence SIMON, Jérome SIMON]
+  - parents: [Bernadette SIMON, Charles BLOT]
+    children: [Marie BLOT, Odile BLOT, Patrice BLOT, Brigitte BLOT, Benoit BLOT]
+  - parents: [Thérèse SIMON, René MERAND]
+    children: [Luc MERAND, Geneviève MERAND, Paul MERAND]
+  - parents: [Pierre SIMON, Viviane BLANKENHORN]
+    children: [Anne-Elisabeth SIMON, Denis SIMON, Christian SIMON 1960]
+  - parents: [Dominique SIMON, Jacqueline LASNE]
+    children: [Thierry SIMON, Arnaud SIMON, Pascal SIMON, Marie-Christine SIMON, Olivier SIMON, Frédéric SIMON, Anne-Gaëlle SIMON]
   - parents: [Jean SIMON, Suzanne FAUGERON]
     children: [Xavier SIMON, Christine SIMON, Claire SIMON, Chantal SIMON]
-  - parents: [Xavier SIMON, Maryline DAG]
-#    children: [Hélène SIMON, Jean-François SIMON, Laure SIMON]
-#  - parents: [François SIMON, Marie-Thérèse DECHEZLEPRETRE ]
-#    children: [Eric SIMON, Bruno SIMON]
-#  - parents: [Eric SIMON, Joëlle DESJARDINS]
-#    children: [Mathieu SIMON, Célia SIMON, Florian SIMON, Vivien SIMON, Cyrielle SIMON]
-#  - parents: [Mathieu SIMON, Karen COMTE]
-#    children: [Tahïs SIMON, Tiago SIMON]
-#  - parents: [Bruno SIMON, Marie-Madeleine COURTIN]
-#    children: [Sarah SIMON 1983, Myriam SIMON, Corentin SIMON]
-#  - parents: [Gérard SIMON, Colette TALBOT]
-#    children: [Fabien SIMON, Loïk SIMON, Sylvie SIMON, Lionel SIMON, Nathalie SIMON]
-#  - parents: [Fabien SIMON, Christine PAIN]
-#    children: [Stéphanie SIMON, Baptiste SIMON]
-#  - parents: [Baptiste SIMON, Perrine LARVOL]
-#    children: []
-#  - parents: [Fabien SIMON, Christine DUFRECHE]
-#    children: []
-#  - parents: [Loïk SIMON, Solange ROZE]
-#    children: [Aurélie SIMON, Julien SIMON]
-#  - parents: [Julien SIMON, Laura LEFRANCOIS]
-#    children: [Nolann]
-#  - parents: [Loïk SIMON, Christine GOUIN]
-#    children: []
-#  - parents: [Lionel SIMON, Anne MAUVY]
-#    children: [Martin SIMON, David SIMON]
-#  - parents: [Lionel SIMON, Guilaine HACHET]
-#    children: [Quentin SIMON, Etienne SIMON, Maud SIMON]
-#  - parents: [David SIMON, Andréa GBEDEKO]
-#    children: []
-#  - parents: [Christian SIMON 1933, Jacqueline MOREAU]
-#    children: [Isabelle SIMON, Jeanne SIMON]
-#
-#  - parents: [Laurence SIMON, Nicolas TRICOU]
-#    children: [Antoine TRICOU, Christophe TRICOU, Clémentine TRICOU, Charlotte TRICOU]
+  - parents: [François SIMON, Marie-Thérèse DECHEZLEPRETRE ]
+    children: [Eric SIMON, Bruno SIMON]
+  - parents: [Christian SIMON 1933, Jacqueline MOREAU]
+    children: [Isabelle SIMON, Jeanne SIMON--MOREAU]
+
+  # Gen1
+  - parents: [Etienne SIMON 1887, Marie-Louise BOURDREL]
+    children: [Marie-Céline SIMON, Bernadette SIMON, Louis SIMON, Pierre SIMON, Thérèse SIMON, Dominique SIMON, Jean SIMON, Joseph SIMON, François SIMON, Gérard SIMON, Christian SIMON 1933]
+
 people:
   Louis SIMON:
-    fullname: 06.06.1922 - 28.12.1999
+    fullname: 1922-06-06 - ✝ 1999-12-28
+    class: [minor]
   Denyse FRANCOIS :
-    fullname: 03.05.1925
+    fullname: 1925-05-03 - ✝ XX.XX.XXXX
+    class: [minor]
   Véronique SIMON:
-    fullname: 17.06.1955
+    fullname: 1955-06-17 - 
   Michel BOURGUIGNON :
-    fullname: 23.12.1950
+    fullname: 1950-12-23 - 
   Timothée BOURGUIGNON :
-    fullname: 19.04.1983
+    fullname: 1983-04-19 - 
   Vera DÜRNHOFER :
-    fullname: 02.02.1984
+    fullname: 1984-02-02 - 
   Théo BOURGUIGNON :
-    fullname: 17.12.2012
+    fullname: 2012-12-17 - 
+  Vroni BOURGUIGNON :
+    fullname: 2020-01-21 - 
   Valentine BOURGUIGNON :
-    fullname: 29.08.1986
+    fullname: 1986-08-29 - 
   Benjamin DESEVIN :
-    fullname: 29.10.1983
+    fullname: 1983-10-29 - 
   Octave DESEVIN :
-    fullname: 11.02.2016
+    fullname: 2016-02-11 - 
+  Théliau DESEVIN :
+    fullname: 2022-09-XX - 
   Ségolène BOURGUIGNON :
-    fullname: 10.03.1989
+    fullname: 1989-03-10 - 
   Laurence SIMON :
-    fullname: 04.08.1957
+    fullname: 1957-08-04 - 
   Nicolas TRICOU :
-    fullname: 07.02.1959
+    fullname: 1959-02-07 - 
   Antoine TRICOU :
-    fullname: 02.11.1987
+    fullname: 1987-11-02 - 
   Christophe TRICOU :
-    fullname: 07.11.1989
+    fullname: 1989-11-07 - 
   Clémentine TRICOU :
-    fullname: 16.09.1992
+    fullname: 1992-09-16 - 
   Charlotte TRICOU :
-    fullname: 18.12.1994
+    fullname: 1994-12-18 - 
   Jérome SIMON :
-    fullname: 08.05.1960
+    fullname: 1960-05-08 - 
   Emmanuelle CHERON :
-    fullname: 16.07.1962
+    fullname: 1962-07-16 - 
   Agathe SIMON 1989:
-    fullname: 23.12.1989
+    fullname: 1989-12-23 - 
   Hugo SIMON:
-    fullname: 18.02.1993
+    fullname: 1993-02-18 - 
   Etienne SIMON 1887:
-    fullname:  20.10.1887 -  22.05.1972
+    fullname:  1887-10-20 - ✝ 1972-05-22
+    class: [minor]
   Marie-Louise BOURDREL:
-    fullname:  27.02.1897 -  04.01.1975
+    fullname:  1897-02-27 - ✝ 1975-01-04
+    class: [minor]
   Marie-Céline SIMON:
-    fullname:  20.11.1919 -  13.02.2006
+    fullname:  1919-11-20 - ✝ 2006-02-13
+    class: [minor]
   Bernadette SIMON:
-    fullname:  31.05.1921 -  15.09.2010
+    fullname:  1921-05-31 - ✝ 2010-09-15
+    class: [minor]
   Charles BLOT:
-    fullname:  15.11.1922 -  06.08.2003
+    fullname:  1922-11-15 - ✝ 2003-08-06
+    class: [minor]
   Marie BLOT:
-    fullname:  19.07.1951
+    fullname:  1951-07-19 - 
   Dominique COURDENT:
-    fullname:  11.10.1940
+    fullname:  1940-10-11 - 
   Samuel COURDENT:
-    fullname:  08.10.1985
+    fullname:  1985-10-08 - 
   Vianney COURDENT:
-    fullname:  10.03.1987
+    fullname:  1987-03-10 - 
   Pauline COURDENT:
-    fullname:  06.12.1988
+    fullname:  1988-12-06 - 
   Odile BLOT:
-    fullname:  15.09.1952
+    fullname:  1952-09-15 - 
   Michel FORNER:
-    fullname:  15.09.1956
+    fullname:  1956-09-15 - 
   Marie FORNER:
-    fullname:  15.03.1980
+    fullname:  1980-03-15 - 
   Vincent MESUREUR:
-    fullname:  21.09.1970
+    fullname:  1970-09-21 - 
   Charles MESUREUR:
-    fullname:  02.12.2007
+    fullname:  2007-12-02 - 
   Pierre MESUREUR:
-    fullname:  17.04.2014
+    fullname:  2014-04-17 - 
   Erwan FORNER:
-    fullname:  19.08.1981
+    fullname:  1981-08-19 - 
   Anaële CHATELAIN:
-    fullname:  21.08.1981
+    fullname:  1981-08-21 - 
   Morgane FORNER:
-    fullname:  17.05.2013
+    fullname:  2013-05-17 - 
   Armelle FORNER:
-    fullname:  11.03.1985
+    fullname:  1985-03-11 - 
   Tiphaine FORNER:
-    fullname:  11.05.1988
+    fullname:  1988-05-11 - 
   Guillaume DELASSUS:
-    fullname:  20.12.1987
+    fullname:  1987-12-20 - 
   Patrice BLOT:
-    fullname:  14.01.1954
+    fullname:  1954-01-14 - 
   Sylviane AUBREE:
-    fullname:  15.03.1959
+    fullname:  1959-03-15 - 
   Lucie BLOT:
-    fullname:  21.08.1987
+    fullname:  1987-08-21 - 
   Andrew CARUANA GALIZIA:
-    fullname:  18.08.1987
+    fullname:  1987-08-18 - 
   Eva BLOT:
-    fullname:  23.07.1989
+    fullname:  1989-07-23 - 
   Emmanuelle BLOT:
-    fullname:  27.08.1993
+    fullname:  1993-08-27 - 
   Florence BLOT:
-    fullname:  27.08.1993
+    fullname:  1993-08-27 - 
   Hafsa DURAND:
-    fullname:  09.10.1963
+    fullname:  1963-10-09 - 
   Brigitte BLOT:
-    fullname:  21.12.1955
+    fullname:  1955-12-21 - 
   Vincent LELOIR:
-    fullname:  17.03.1954
+    fullname:  1954-03-17 - 
   Marion LELOIR:
-    fullname:  15.07.1981
+    fullname:  1981-07-15 - 
   David NAYET:
-    fullname:  11.01.1974
+    fullname:  1974-01-11 - 
   Charles NAYET:
-    fullname:  26.12.2007
+    fullname:  2007-12-26 - 
   Marius NAYET:
-    fullname:  20.11.2010
+    fullname:  2010-11-20 - 
   Perrine LELOIR:
-    fullname:  25.12.1984
+    fullname:  1984-12-25 - 
   Fabien DUCHATELLE:
-    fullname:  29.01.1982
+    fullname:  1982-01-29 - 
   Timothé DUCHATELLE:
-    fullname:  26.08.2011
+    fullname:  2011-08-26 - 
   Anaïs LELOIR:
-    fullname:  08.02.1988
+    fullname:  1988-02-08 - 
   Benoit BLOT:
-    fullname:  25.04.1958
+    fullname:  1958-04-25 - 
   Françoise SOLANET:
-    fullname:  01.12.1959
+    fullname:  1959-12-01 - 
   Benjamin BLOT:
-    fullname:  16.01.1987
+    fullname:  1987-01-16 - 
   Agathe BLOT:
-    fullname:  03.08.1990
+    fullname:  1990-08-03 - 
   Pierre SIMON:
-    fullname:  10.06.1924
+    fullname:  1924-06-10 - 
   Viviane BLANKENHORN:
-    fullname:  14.02.1934 -  01.03.2009
+    fullname:  1934-02-14 - ✝ 2009-03-01
+    class: [minor]
   Anne-Elisabeth SIMON:
-    fullname:  11.12.1953
+    fullname:  1953-12-11 - 
   Jean-Paul COSTA:
-    fullname:  09.11.1951
+    fullname:  1951-11-09 - 
   Pierre-Emmanuel COSTA:
-    fullname:  17.08.1982
+    fullname:  1982-08-17 - 
   Jane LUNGERSHAUSEN:
     fullname: 
   Marine COSTA:
-    fullname:  29.10.1984
+    fullname:  1984-10-29 - 
   Frédéric COSTA:
-    fullname:  22.06.1987
+    fullname:  1987-06-22 - 
   Benjamin COSTA:
-    fullname:  22.06.1987 -  24.06.1987
+    fullname:  1987-06-22 - ✝ 1987-06-24
+    class: [minor]
   Gaël COSTA:
-    fullname:  22.06.1987 -  25.06.1987
+    fullname:  1987-06-22 - ✝ 1987-06-25
+    class: [minor]
   Denis SIMON:
-    fullname:  13.03.1957
+    fullname:  1957-03-13 - 
   Brigitte CONSTANTIN:
-    fullname:  10.01.1959
+    fullname:  1959-01-10 - 
   Grégory SIMON:
-    fullname:  29.10.1984
+    fullname:  1984-10-29 - 
   Agathe SIMON 1988:
-    fullname:  13.12.1988
-  Clémentine SIMON 2:
-    fullname:  08.01.1990
+    fullname:  1988-12-13 - 
+  Clémentine SIMON:
+    fullname:  1990-01-08 - 
   Christian SIMON 1960:
-    fullname:  22.09.1960
+    fullname:  1960-09-22 - 
   Virginie BOULOGNE:
-    fullname:  21.06.1959
+    fullname:  1959-06-21 - 
   Thérèse SIMON:
-    fullname:  10.09.1925
+    fullname:  1925-09-10 - 
   René MERAND:
-    fullname:  07.12.1921 -  09.11.2006
+    fullname:  1921-12-07 - ✝ 2006-11-09
+    class: [minor]
   Luc MERAND:
-    fullname:  06.06.1952
+    fullname:  1952-06-06 - 
   Joëlle LECHOUX:
-    fullname: 21.07.1953
+    fullname: 1953-07-21 - 
   Isabelle MERAND:
-    fullname:  02.06.1975
+    fullname:  1975-06-02 - 
   Mathieu HAMON:
-    fullname:  02.10.1972
+    fullname:  1972-10-02 - 
   Louise HAMON--MERAND:
-    fullname:  16.10.2001
+    fullname:  2001-10-16 - 
   Prune HAMON--MERAND:
-    fullname:  04.04.2004
+    fullname:  2004-04-04 - 
   Célestin HAMON--MERAND:
-    fullname:  04.04.2004
+    fullname:  2004-04-04 - 
   Céline MERAND:
-    fullname:  29.06.1978
+    fullname:  1978-06-29 - 
   Hervé MERAND:
-    fullname:  19.06.1984
+    fullname:  1984-06-19 - 
   Sandrine HAMON:
-    fullname:  04.02.1986
+    fullname:  1986-02-04 - 
   Lou MERAND--HAMON:
-    fullname:  25.07.2011
+    fullname:  2011-07-25 - 
   Geneviève MERAND:
-    fullname:  18.01.1954
+    fullname:  1954-01-18 - 
   Jean LELOIR:
-    fullname:  01.03.1953
+    fullname:  1953-03-01 - 
   Alice LELOIR:
-    fullname:  15.04.1989
+    fullname:  1989-04-15 - 
   Iléana LELOIR:
-    fullname:  05.08.1993
+    fullname:  1993-08-05 - 
   Paul MERAND:
-    fullname:  09.10.1960
+    fullname:  1960-10-09 - 
   Pierrette LETARD:
     fullname: 
   Corentin MERAND:
-    fullname:  14.07.1995
+    fullname:  1995-07-14 - 
   Dominique SIMON:
-    fullname:  03.12.1926 -  17.03.1974
+    fullname:  1926-12-03 - ✝ 1974-03-17
+    class: [minor]
   Jacqueline LASNE:
-    fullname:  11.06.1931
+    fullname:  1931-06-11 - 
   Thierry SIMON:
-    fullname:  03.11.1953
+    fullname:  1953-11-03 - 
   Véronique HOLLEVILLE:
-    fullname:  27.06.1957
+    fullname:  1957-06-27 - 
   Emmanuelle SIMON:
-    fullname:  18.07.1979
+    fullname:  1979-07-18 - 
   Juilen MARFAING:
     fullname: 
   Léa MARFAING:
-    fullname:  01.07.2003
+    fullname:  2003-07-01 - 
   Camille MARFAING:
-    fullname:  03.10.2005
+    fullname:  2005-10-03 - 
   Dimitri CORDIER:
-    fullname:  04.11.1986
+    fullname:  1986-11-04 - 
   Caroline SIMON:
-    fullname:  09.11.1981
+    fullname:  1981-11-09 - 
   David DUFETELLE:
-    fullname:  30.09.1978
-  ElieDUFETELLE:
-    fullname:  09.03.2008
+    fullname:  1978-09-30 - 
+  Elie DUFETELLE:
+    fullname:  2008-03-09 - 
   Salomée DUFETELLE:
-    fullname:  06.01.2011
+    fullname:  2011-01-06 - 
   Valentine SIMON:
-    fullname:  12.08.1990
+    fullname:  1990-08-12 - 
   Anthony COMAGNAC:
-    fullname:  07.01.1989
+    fullname:  1989-01-07 - 
   Arnaud SIMON:
-    fullname:  03.08.1955
+    fullname:  1955-08-03 - 
   Sylviane RAQUET:
     fullname: 
   Robin SIMON:
-    fullname:  25.05.1988
+    fullname:  1988-05-25 - 
   Eliott SIMON:
-    fullname:  21.01.1996
+    fullname:  1996-01-21 - 
   Faustine SIMON:
-    fullname:  09.03.2001
+    fullname:  2001-03-09 - 
   Anaïs SIMON:
-    fullname:  27.04.2002
+    fullname:  2002-04-27 - 
   Marie-Josée:
     fullname: 
   Pascal SIMON:
-    fullname:  17.04.1958
+    fullname:  1958-04-17 - 
   Béatrice CAZE:
-    fullname:  20.01.1959
+    fullname:  1959-01-20 - 
   Marine SIMON:
-    fullname:  23.12.1985
+    fullname:  1985-12-23 - 
   Aymeric SIMON:
-    fullname:  10.07.1987
+    fullname:  1987-07-10 - 
   Marie-Christine SIMON:
-    fullname:  29.04.1960
-  Fréderic CAILLIERET:
+    fullname:  1960-04-29 - 
+  Frédéric CAILLIERET:
     fullname: 
   Ombeline CAILLIERET:
-    fullname:  12.04.1989
+    fullname:  1989-04-12 - 
   Corentin CAILLIERET:
-    fullname:  16.11.1992
+    fullname:  1992-11-16 - 
+  Nathan REIX: 
+    fullname: 1989-03-24 - 
+  Lou REIX:
+    fullname: 2020-03-27 - 
+  Mia REIX:
+    fullname: 2020-03-27 - 
   Richard DRISCOLL:
-    fullname:  16.03.1968
+    fullname:  1968-03-16 - 
   Lucie DRISCOLL:
-    fullname:  01.09.1997
+    fullname:  1997-09-01 - 
   Olivier SIMON:
-    fullname:  28.09.1962
+    fullname:  1962-09-28 - 
   Fabienne HOLLEVILLE:
-    fullname:  10.09.1967
+    fullname:  1967-09-10 - 
   Germain SIMON:
-    fullname:  16.06.1990
+    fullname:  1990-06-16 - 
   Jennifer GERVAL:
-    fullname:  11.03.1993
+    fullname:  1993-03-11 - 
   Jeanne SIMON 1994:
-    fullname:  12.07.1994
-  Martin SIMON 2001:
-    fullname:  10.11.2001
+    fullname:  1994-07-12 - 
+  Martin SIMON--HACHET 2001:
+    fullname:  2001-11-10 - 
   Frédéric SIMON:
-    fullname:  22.10.1965
+    fullname:  1965-10-22 - 
   Isabelle ANDRIEUX:
-    fullname:  06.03.1964
+    fullname:  1964-03-06 - 
   Sarah SIMON 1992:
-    fullname:  29.09.1992
+    fullname:  1992-09-29 - 
   Manon SIMON:
-    fullname:  08.10.1995
+    fullname:  1995-10-08 - 
   Anne-Gaëlle SIMON:
-    fullname:  09.08.1971
-#  Jean SIMON:
-#    fullname:  06.01.1928
-#  Suzanne FAUGERON:
-#    fullname:  13.03.1931
-#  Xavier SIMON:
-#    fullname:  11.02.1958
-#  Maryline DAG:
-#    fullname:  16.02.1962
-#  Hélène SIMON:
-#    fullname:  30.04.1989
-#  Jean-François SIMON:
-#    fullname:  24.04.1991
-#  Laure SIMON:
-#    fullname:  14.11.1994
-#  Christine SIMON:
-#    fullname:  29.04.1960
-#  Eric FOSSIER:
-#    fullname:  09.07.1959
-#  Thibaut FOSSIER:
-#    fullname:  20.08.1986
-#  Camille FOSSIER:
-#    fullname:  16.10.1988
-#  Sylvain FOSSIER:
-#    fullname:  09.06.1991
-#  Lucille FOSSIER:
-#    fullname:  07.11.1993
-#  Pierre-Hugues LAMOTTE:
-#    fullname:  01.04.1958
-#  Claire SIMON:
-#    fullname:  21.10.1961
-#  Thierry PENET:
-#    fullname:  30.04.1960 -  27.07.1996
-#  Chloé PENET:
-#    fullname:  26.02.1991
-#  Maud PENET:
-#    fullname:  31.01.1994
-#  Chantal SIMON:
-#    fullname:  19.04.1965
-#  Joseph SIMON:
-#    fullname:  28.02.1929 -  09.09.1929
-#  François SIMON:
-#    fullname:  04.04.1930
-#  Marie-Thérèse DECHEZLEPRETRE:
-#    fullname:  09.05.1929
-#  Eric SIMON:
-#    fullname:  08.05.1953
-#  Joëlle DESJARDINS:
-#    fullname:  04.01.1955
-#  Mathieu SIMON:
-#    fullname:  17.12.1976
-#  Karen COMTE:
-#    fullname:  27.04.1976
-#  Tahïs SIMON:
-#    fullname:  05.05.2011
-#  Tiago SIMON:
-#    fullname:  26.05.2013
-#  Célia SIMON:
-#    fullname:  29.09.1979
-#  Nicolas SAUTREUIL:
-#    fullname:  19.08.1978
-#  Florian SIMON:
-#    fullname:  20.02.1987
-#  Vivien SIMON:
-#    fullname:  02.07.1988
-#  Cyrielle SIMON:
-#    fullname:  22.11.1994
-#  Bruno SIMON:
-#    fullname:  09.09.1954
-#  Marie-Madeleine COURTIN:
-#    fullname:  27.07.1961
-#  Sarah SIMON 1983:
-#    fullname:  19.03.1983
-#  Myriam SIMON:
-#    fullname:  30.07.1985
-#  Corentin SIMON:
-#    fullname:  18.02.1991
-#  Gérard SIMON:
-#    fullname:  26.10.1931 -  10.10.2008
-#  Colette TALBOT:
-#    fullname:  10.12.1934
-#  Fabien SIMON:
-#    fullname:  03.11.1954
-#  Christine PAIN:
-#    fullname:  27.07.1954
-#  Stéphanie SIMON:
-#    fullname:  08.02.1976
-#  Marc ARRIVE:
-#    fullname:  30.12.1975
-#  Maël ARRIVE:
-#    fullname:  20.11.2001
-#  Louanne ARRIVE:
-#    fullname:  04.11.2004
-#  Baptiste SIMON:
-#    fullname:  04.07.1981
-#  Perrine LARVOL:
-#    fullname:  25.01.1987
-#  Christine DUFRECHE:
-#    fullname: 
-#  Loïk SIMON:
-#    fullname:  22.05.1956
-#  Solange ROZE:
-#    fullname:  17.06.1957
-#  Aurélie SIMON:
-#    fullname:  09.06.1981
-#  Florent PELERIN:
-#    fullname:  05.04.1971
-#  Merlin:
-#    fullname:  02.12.2004
-#  Mila:
-#    fullname:  02.02.2007
-#  Julien SIMON:
-#    fullname:  08.10.1983
-#  Laura LEFRANCOIS:
-#    fullname:  08.03.1985
-#  Nolann:
-#    fullname:  02.02.2012
-#  Christine GOUIN:
-#    fullname:  08.08.1956
-#  Sylvie SIMON:
-#    fullname:  24.11.1957
-#  Jean-Yves BADOUARD:
-#    fullname:  12.01.1955
-#  Emmanuelle BADOUARD:
-#    fullname:  11.08.1981
-#  Florent BADOUARD:
-#    fullname:  07.01.1985 -  01.08.2004
-#  Carole BADOUARD:
-#    fullname:  07.09.1987
-#  Lionel SIMON:
-#    fullname:  11.12.1960
-#  Anne MAUVY:
-#    fullname:  01.12.1961
-#  Martin SIMON 1982:
-#    fullname:  24.07.1982
-#  David SIMON:
-#    fullname:  07.11.1983
-#  Andréa GBEDEKO:
-#    fullname:  09.05.1983
-#  Guilaine HACHET:
-#    fullname: 
-#  Quentin SIMON:
-#    fullname:  31.01.1995
-#  Etienne SIMON 1996:
-#    fullname:  11.12.1996
-#  Maud SIMON:
-#    fullname:  05.02.2001
-#  Nathalie SIMON:
-#    fullname:  15.01.1963 -  22.03.1993
-#  Christian SIMON 1933:
-#    fullname:  16.04.1933 -  04.12.1996
-#  Jacqueline MOREAU:
-#    fullname:  19.02.1932
-#  Isabelle SIMON:
-#    fullname:  29.10.1957
-#  Jeanne SIMON 1962:
-#    fullname:  24.03.1962
-#  Jean Loup RENIER:
-#    fullname:  19.07.1961
-#  Marine RENIER:
-#    fullname:  24.09.1990
-#  Lise RENIER:
-#    fullname:  06.07.1993
-#  Jeremy RENIER:
-#    fullname:  01.03.2002
-#  Thierry ROISIN:
-#    fullname:  10.10.1958
-#
+    fullname:  1971-08-09 - 
+  Jean SIMON:
+    fullname:  1928-01-06 - 
+  Suzanne FAUGERON:
+    fullname:  1931-03-13 - 
+  Xavier SIMON:
+    fullname:  1958-02-11 - 
+  Maryline DAG:
+    fullname:  1962-02-16 - 
+  Hélène SIMON:
+    fullname:  1989-04-30 - 
+  Jean-François SIMON:
+    fullname:  1991-04-24 - 
+  Laure SIMON:
+    fullname:  1994-11-14 - 
+  Christine SIMON:
+    fullname:  1960-04-29 - 
+  Eric FOSSIER:
+    fullname:  1959-07-09 - 
+  Thibaut FOSSIER:
+    fullname:  1986-08-20 - 
+  Camille FOSSIER:
+    fullname:  1988-10-16 - 
+  Sylvain FOSSIER:
+    fullname:  1991-06-09 - 
+  Lucille FOSSIER:
+    fullname:  1993-11-07 - 
+  Pierre-Hugues LAMOTTE:
+    fullname:  1958-04-01 - 
+  Claire SIMON:
+    fullname:  1961-10-21 - 
+  Thierry PENET:
+    fullname:  1960-04-30 - ✝ 1996-07-27
+    class: [minor]
+  Chloé PENET:
+    fullname:  1991-02-26 - 
+  Maud PENET:
+    fullname:  1994-01-31 - 
+  Chantal SIMON:
+    fullname:  1965-04-19 - 
+  Joseph SIMON:
+    fullname:  1929-02-28 - ✝ 1929-09-09
+    class: [minor]
+  François SIMON:
+    fullname:  1930-04-04 - 
+  Marie-Thérèse DECHEZLEPRETRE:
+    fullname:  1929-05-09 - 
+  Eric SIMON:
+    fullname:  1953-05-08 - 
+  Joëlle DESJARDINS:
+    fullname:  1955-01-04 - 
+  Mathieu SIMON:
+    fullname:  1976-12-17 - 
+  Karen COMTE:
+    fullname:  1976-04-27 - 
+  Tahïs SIMON:
+    fullname:  2011-05-05 - 
+  Tiago SIMON:
+    fullname:  2013-05-26 - 
+  Célia SIMON:
+    fullname:  1979-09-29 - 
+  Nicolas SAUTREUIL:
+    fullname:  1978-08-19 - 
+  Florian SIMON:
+    fullname:  1987-02-20 - 
+  Vivien SIMON:
+    fullname:  1988-07-02 - 
+  Cyrielle SIMON:
+    fullname:  1994-11-22 - 
+  Bruno SIMON:
+    fullname:  1954-09-09 - 
+  Marie-Madeleine COURTIN:
+    fullname:  1961-07-27 - 
+  Sarah SIMON 1983:
+    fullname:  1983-03-19 - 
+  Myriam SIMON:
+    fullname:  1985-07-30 - 
+  Corentin SIMON:
+    fullname:  1991-02-18 - 
+  Gérard SIMON:
+    fullname:  1931-10-26 - ✝ 2008-10-10
+    class: [minor]
+  Colette TALBOT:
+    fullname:  1934-12-10 - 
+  Fabien SIMON:
+    fullname:  1954-11-03 - 
+  Christine PAIN:
+    fullname:  1954-07-27 - 
+  Stéphanie SIMON:
+    fullname:  1976-02-08 - 
+  Marc ARRIVE:
+    fullname:  1975-12-30 - 
+  Maël ARRIVE:
+    fullname:  2001-11-20 - 
+  Louanne ARRIVE:
+    fullname:  2004-11-04 - 
+  Baptiste SIMON:
+    fullname:  1981-07-04 - 
+  Perrine LARVOL:
+    fullname:  1987-01-25 - 
+  Christine DUFRECHE:
+    fullname: 
+  Loïk SIMON:
+    fullname:  1956-05-22 - 
+  Solange ROZE:
+    fullname:  1957-06-17 - 
+  Aurélie SIMON:
+    fullname:  1981-06-09 - 
+  Florent PELERIN:
+    fullname:  1971-04-05 - 
+  Merlin:
+    fullname:  2004-12-02 - 
+  Mila:
+    fullname:  2007-02-02 - 
+  Julien SIMON:
+    fullname:  1983-10-08 - 
+  Laura LEFRANCOIS:
+    fullname:  1985-03-08 - 
+  Nolann:
+    fullname:  2012-02-02 - 
+  Christine GOUIN:
+    fullname:  1956-08-08 - 
+  Sylvie SIMON:
+    fullname:  1957-11-24 - 
+  Jean-Yves BADOUARD:
+    fullname:  1955-01-12 - 
+  Emmanuelle BADOUARD:
+    fullname:  1981-08-11 - 
+  Florent BADOUARD:
+    fullname:  1985-01-07 - ✝ 2004-08-01
+    class: [minor]
+  Carole BADOUARD:
+    fullname:  1987-09-07 - 
+  Lionel SIMON:
+    fullname:  1960-12-11 - 
+  Anne MAUVY:
+    fullname:  1961-12-01 - 
+  Martin SIMON--HACHET:
+    fullname:  1982-07-24 - 
+  David SIMON:
+    fullname:  1983-11-07 - 
+  Andréa GBEDEKO:
+    fullname:  1983-05-09 - 
+  Guilaine HACHET:
+    fullname: 
+  Quentin SIMON:
+    fullname:  1995-01-31 - 
+  Etienne SIMON--HACHET:
+    fullname:  1996-12-11 - 
+  Maud SIMON:
+    fullname:  2001-02-05 - 
+  Nathalie SIMON:
+    fullname:  1963-01-15 - ✝ 1993-03-22
+    class: [minor]
+  Christian SIMON 1933:
+    fullname:  1933-04-16 - ✝ 1996-12-04
+    class: [minor]
+  Jacqueline MOREAU:
+    fullname:  1932-02-19 - 
+  Isabelle SIMON:
+    fullname:  1957-10-29 - 
+  Jeanne SIMON--MOREAU:
+    fullname:  1962-03-24 - 
+  Jean Loup RENIER:
+    fullname:  1961-07-19 - 
+  Marine RENIER:
+    fullname:  1990-09-24 - 
+  Nicolas SCHWEITZER:
+    fullname:  1987-07-01 - 
+  Noé SCHWEITZER:
+    fullname:  2019-07-26 - 
+  Mathilde SCHWEITZER:
+    fullname:  2021-11-04 - 
+  Lise RENIER:
+    fullname:  1993-07-06 - 
+  Jeremy RENIER:
+    fullname:  2002-03-01 - 
+  Thierry ROISIN:
+    fullname:  1958-10-10 - 
+
+styles:
+  minor:
+    style: "filled"
+    fillcolor: "#f4f4f4"
+    penwidth: 0
