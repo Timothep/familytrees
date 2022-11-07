@@ -1,5 +1,10 @@
 families:
-  # Gen5
+  #####
+  # Ne pas linker les familles mais plutôt 
+  # mettre les génération de bas en haut
+  # comme ça les familles sont bien groupées 
+  # par couples de parents
+  #####
 
   # Gen4
   - parents: [Stéphanie SIMON, Marc ARRIVE]
@@ -12,11 +17,11 @@ families:
     children: [Nolann]
   - parents: [David SIMON, Andréa GBEDEKO]
     children: []
-  - parents: [Timothée BOURGUIGNON, Vera DÜRNHOFER]
+  - parents: [Timothée BOURGUIGNON, Vera BOURGUIGNON né(e) DÜRNHOFER]
     children: [Théo BOURGUIGNON, Ella BOURGUIGNON, Vroni BOURGUIGNON]
-  - parents: [Valentine BOURGUIGNON, Benjamin DESEVIN]
+  - parents: [Valentine DESEVIN né(e) BOURGUIGNON, Benjamin DESEVIN]
     children: [Octave DESEVIN, Basile DESEVIN, Théliau DESEVIN]
-  - parents: [Agathe SIMON 1989, Benjamin CALDIN]
+  - parents: [Agathe CALDIN né(e) SIMON, Benjamin CALDIN]
     children: [Jeanne CALDIN]
   - parents: [Lucie BLOT, Andrew CARUANA GALIZIA]
     children: []
@@ -31,9 +36,9 @@ families:
   - parents: [Perrine LELOIR, Fabien DUCHATELLE]
     children: [Timothé DUCHATELLE]
   - parents: [Hervé MERAND, Sandrine HAMON]
-    children: [Lou MERAND--HAMON]
+    children: [Lou MERAND né(e) HAMON]
   - parents: [Isabelle MERAND, Mathieu HAMON]
-    children: [Louise HAMON--MERAND, Prune HAMON--MERAND, Célestin HAMON--MERAND]
+    children: [Louise HAMON né(e) MERAND, Prune HAMON né(e) MERAND, Célestin HAMON né(e) MERAND]
   - parents: [Pierre-Emmanuel COSTA, Jane LUNGERSHAUSEN]
     children: []
   - parents: [Ombeline CAILLIERET, Nathan REIX]
@@ -67,14 +72,14 @@ families:
   - parents: [Loïk SIMON, Christine GOUIN]
     children: []
   - parents: [Lionel SIMON, Anne MAUVY]
-    children: [Martin SIMON--HACHET, David SIMON]
+    children: [Martin SIMON né(e) HACHET, David SIMON]
   - parents: [Lionel SIMON, Guilaine HACHET]
-    children: [Quentin SIMON, Etienne SIMON--HACHET, Maud SIMON]
+    children: [Quentin SIMON, Etienne SIMON né(e) HACHET, Maud SIMON]
 
   - parents: [Michel BOURGUIGNON, Véronique SIMON]
-    children: [Timothée BOURGUIGNON, Valentine BOURGUIGNON, Ségolène BOURGUIGNON]
+    children: [Timothée BOURGUIGNON, Valentine DESEVIN né(e) BOURGUIGNON, Ségolène BOURGUIGNON]
   - parents: [Jérome SIMON, Emmanuelle CHERON]
-    children: [Agathe SIMON 1989, Hugo SIMON]
+    children: [Agathe CALDIN né(e) SIMON, Hugo SIMON]
   - parents: [Laurence SIMON, Nicolas TRICOU]
     children: [Antoine TRICOU, Christophe TRICOU, Clémentine TRICOU, Charlotte TRICOU]
   
@@ -119,7 +124,7 @@ families:
   - parents: [Pascal SIMON, Béatrice CAZE]
     children: [Marine SIMON, Aymeric SIMON]
   - parents: [Olivier SIMON, Fabienne HOLLEVILLE]
-    children: [Germain SIMON, Jeanne SIMON 1994, Martin SIMON--HACHET 2001]
+    children: [Germain SIMON, Jeanne SIMON 1994, Martin SIMON né(e) HACHET 2001]
   - parents: [Frédéric SIMON, Isabelle ANDRIEUX]
     children: [Sarah SIMON 1992, Manon SIMON]
   - parents: [Christine SIMON, Eric FOSSIER]
@@ -134,9 +139,9 @@ families:
     children: [Mathieu SIMON, Célia SIMON, Florian SIMON, Vivien SIMON, Cyrielle SIMON]
   - parents: [Bruno SIMON, Marie-Madeleine COURTIN]
     children: [Sarah SIMON 1983, Myriam SIMON, Corentin SIMON]
-  - parents: [Jeanne SIMON--MOREAU, Jean Loup RENIER]
+  - parents: [Jeanne SIMON né(e) MOREAU, Jean Loup RENIER]
     children: [Marine RENIER, Lise RENIER, Jeremy RENIER]
-  - parents: [Jeanne SIMON--MOREAU, Thierry ROISIN]
+  - parents: [Jeanne SIMON né(e) MOREAU, Thierry ROISIN]
     children: []
 
   # Gen2
@@ -157,7 +162,7 @@ families:
   - parents: [François SIMON, Marie-Thérèse DECHEZLEPRETRE ]
     children: [Eric SIMON, Bruno SIMON]
   - parents: [Christian SIMON 1933, Jacqueline MOREAU]
-    children: [Isabelle SIMON, Jeanne SIMON--MOREAU]
+    children: [Isabelle SIMON, Jeanne SIMON né(e) MOREAU]
 
   # Gen1
   - parents: [Etienne SIMON 1887, Marie-Louise BOURDREL]
@@ -176,13 +181,13 @@ people:
     fullname: 1950-12-23 - 
   Timothée BOURGUIGNON :
     fullname: 1983-04-19 - 
-  Vera DÜRNHOFER :
+  Vera BOURGUIGNON né(e) DÜRNHOFER :
     fullname: 1984-02-02 - 
   Théo BOURGUIGNON :
     fullname: 2012-12-17 - 
   Vroni BOURGUIGNON :
     fullname: 2020-01-21 - 
-  Valentine BOURGUIGNON :
+  Valentine DESEVIN né(e) BOURGUIGNON :
     fullname: 1986-08-29 - 
   Benjamin DESEVIN :
     fullname: 1983-10-29 - 
@@ -208,7 +213,7 @@ people:
     fullname: 1960-05-08 - 
   Emmanuelle CHERON :
     fullname: 1962-07-16 - 
-  Agathe SIMON 1989:
+  Agathe CALDIN né(e) SIMON:
     fullname: 1989-12-23 - 
   Hugo SIMON:
     fullname: 1993-02-18 - 
@@ -355,11 +360,11 @@ people:
     fullname:  1975-06-02 - 
   Mathieu HAMON:
     fullname:  1972-10-02 - 
-  Louise HAMON--MERAND:
+  Louise HAMON né(e) MERAND:
     fullname:  2001-10-16 - 
-  Prune HAMON--MERAND:
+  Prune HAMON né(e) MERAND:
     fullname:  2004-04-04 - 
-  Célestin HAMON--MERAND:
+  Célestin HAMON né(e) MERAND:
     fullname:  2004-04-04 - 
   Céline MERAND:
     fullname:  1978-06-29 - 
@@ -367,7 +372,7 @@ people:
     fullname:  1984-06-19 - 
   Sandrine HAMON:
     fullname:  1986-02-04 - 
-  Lou MERAND--HAMON:
+  Lou MERAND né(e) HAMON:
     fullname:  2011-07-25 - 
   Geneviève MERAND:
     fullname:  1954-01-18 - 
@@ -464,7 +469,7 @@ people:
     fullname:  1993-03-11 - 
   Jeanne SIMON 1994:
     fullname:  1994-07-12 - 
-  Martin SIMON--HACHET 2001:
+  Martin SIMON né(e) HACHET 2001:
     fullname:  2001-11-10 - 
   Frédéric SIMON:
     fullname:  1965-10-22 - 
@@ -612,7 +617,7 @@ people:
     fullname:  1960-12-11 - 
   Anne MAUVY:
     fullname:  1961-12-01 - 
-  Martin SIMON--HACHET:
+  Martin SIMON né(e) HACHET:
     fullname:  1982-07-24 - 
   David SIMON:
     fullname:  1983-11-07 - 
@@ -622,7 +627,7 @@ people:
     fullname: 
   Quentin SIMON:
     fullname:  1995-01-31 - 
-  Etienne SIMON--HACHET:
+  Etienne SIMON né(e) HACHET:
     fullname:  1996-12-11 - 
   Maud SIMON:
     fullname:  2001-02-05 - 
@@ -636,7 +641,7 @@ people:
     fullname:  1932-02-19 - 
   Isabelle SIMON:
     fullname:  1957-10-29 - 
-  Jeanne SIMON--MOREAU:
+  Jeanne SIMON né(e) MOREAU:
     fullname:  1962-03-24 - 
   Jean Loup RENIER:
     fullname:  1961-07-19 - 
